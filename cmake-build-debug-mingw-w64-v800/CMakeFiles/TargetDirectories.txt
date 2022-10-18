@@ -1,0 +1,3 @@
+C:/Users/Banana/CLionProjects/BasicEngine/cmake-build-debug-mingw-w64-v800/CMakeFiles/BasicEngine.dir
+C:/Users/Banana/CLionProjects/BasicEngine/cmake-build-debug-mingw-w64-v800/CMakeFiles/edit_cache.dir
+C:/Users/Banana/CLionProjects/BasicEngine/cmake-build-debug-mingw-w64-v800/CMakeFiles/rebuild_cache.dir

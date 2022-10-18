@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Banana/CLionProjects/BasicEngine/core/Core.cpp
+Core.h
+C:/Users/Banana/CLionProjects/BasicEngine/core/Core.h
+
+C:/Users/Banana/CLionProjects/BasicEngine/core/Core.h
+
+C:/Users/Banana/CLionProjects/BasicEngine/main.cpp
+iostream
+-
+gl/gl.h
+-
+gl/glu.h
+-
+gl/glut.h
+-
+
